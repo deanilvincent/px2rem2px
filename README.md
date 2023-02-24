@@ -4,6 +4,8 @@
 
 NPM package that simply converts pixel to REM and/or pixel to REM.
 
+[![Build Status](https://dev.azure.com/dv-github-repos/px2rem2px/_apis/build/status/deanilvincent.px2rem2px?branchName=main)](https://dev.azure.com/dv-github-repos/px2rem2px/_build/latest?definitionId=11&branchName=main)
+
 ## Installation
 
 ```
