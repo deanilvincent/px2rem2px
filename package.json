@@ -1,6 +1,6 @@
 {
   "name": "px2rem2px",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert pixel (px) to rem and rem to pixel (px)",
   "main": "index.js",
   "scripts": {

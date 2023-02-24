@@ -30,5 +30,5 @@ Feel free to clone or fork this project:  `https://github.com/deanilvincent/px2r
 
 ### License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/deanilvincent/px2rem2px/blob/master/LICENSE.md/) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/deanilvincent/px2rem2px/blob/main/LICENSE) file for details.
 Feel free to clone or fork this project:  `https://github.com/deanilvincent/px2rem2px.git`
