@@ -1,0 +1,42 @@
+{
+  "name": "px2rem2px",
+  "version": "1.0.0",
+  "description": "Convert pixel (px) to rem and rem to pixel (px)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deanilvincent/px2rem2px.git"
+  },
+  "keywords": [
+    "pixel to rem",
+    "rem to pixel",
+    "px to rem",
+    "rem to px",
+    "px",
+    "to",
+    "rem",
+    "rem",
+    "to",
+    "px",
+    "pixel-to-rem",
+    "rem-to-pixel",
+    "px-to-rem",
+    "rem-to-px",
+    "px",
+    "rem",
+    "pixel"
+  ],
+  "author": "deanilvincent",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/deanilvincent/px2rem2px/issues"
+  },
+  "homepage": "https://github.com/deanilvincent/px2rem2px#readme",
+  "devDependencies": {
+    "jest": "^29.4.3",
+    "tsd": "^0.25.0"
+  }
+}
